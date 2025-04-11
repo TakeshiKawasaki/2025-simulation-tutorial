@@ -12,7 +12,8 @@ int main(void){
   char fname[128];
   std::ofstream file;
   srand(time(NULL));  // "time(NULL)" as a seed of ramdom number
-  sprintf(fname,"coord%d.dat",max); // Define the file name for fname[128]
+  //  sprintnf(fname,"coord%d.dat",max); // Define the file name for fname[128]
+  snprintf(fname, sizeof(fname), "coord%d.dat", max);
   file.open(fname); // "file" with the name of fname[128]
   for(i=0;i<max;i++){
     x = (double)rand()/RAND_MAX;
