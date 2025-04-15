@@ -9,7 +9,7 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
-2024年度シミュレーション実習におけるサンプルプログラムや講義資料をここに置きます．
+2025年度阪大物理学専攻学際計算物理学グループにおけるB4計算機実習におけるサンプルプログラムや講義資料をここに置きます．
 ”Code”（緑色のボタン）を押し，zip形式など適宜形式を選びダウンロードして下さい．
 
 またGitをインストールいただければご自身のコンピュータの端末で
