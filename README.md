@@ -19,7 +19,7 @@ git clone https://github.com/TakeshiKawasaki/2025-simulation-tutorial.git repo
 を実行すると　新たに生成されるフォルダ'repo'以下に当リポジトリ内の全てのデータが入ります．<br>
 参考 [git install][1]
 
-repo内のデータの更新はrepoのもとで
+repo内のデータの更新はrepoディレクトリの中で
 ```
 git pull
 ```
