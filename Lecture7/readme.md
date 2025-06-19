@@ -7,9 +7,9 @@ https://irradiated-pot-667.notion.site/7-Q-A-8b1443826c514dafbdec7f055e9b621f
 ** movie.py:**<br>
 各温度で粒子配置の動画を作るプログラム
 mp4形式が作れないときは，以下をインストール
-
+```
 brew install ffmpeg
-
+```
 **langevin_many.cpp:**<br>
 自主課題6の主計算サンプルプログラム<br>
 
