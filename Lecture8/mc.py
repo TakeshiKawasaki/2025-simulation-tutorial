@@ -24,7 +24,7 @@ patches = []
 fig = plt.figure(figsize=(10,10))
 ax = fig.add_subplot(111)
 
-x, y,a = np.loadtxt("./Lecture8/coord_mc_T{:.3f}_50.dat".format(temp), comments='#', unpack=True)
+x, y,a = np.loadtxt("./Lecture8/coord_mc_T{:.3f}_49.dat".format(temp), comments='#', unpack=True)
 
 for i in range(Np):
     circle = mpatches.Ellipse((x[i],y[i]), a[i], a[i])
