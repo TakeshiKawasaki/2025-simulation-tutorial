@@ -78,7 +78,7 @@ void mc(double (*x)[dim],double *a,double temp0,int *count){
   double Ui,Ui0;
   double p;
   
-  int  i = (int)(Np*unif_rand(0,1.0-DBL_EPSILON)));
+  int  i = (int)(Np*unif_rand(0,1.0-DBL_EPSILON));
 
   calc_energy(x,a,&Ui,i);
   Ui0=Ui;
