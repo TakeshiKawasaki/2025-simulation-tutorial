@@ -1,5 +1,5 @@
 ## 第７回講義動画 <br>
-https://nuss.nagoya-u.ac.jp/s/3Rt8ZcwdjPCZxgZ
+[https://nuss.nagoya-u.ac.jp/s/3Rt8ZcwdjPCZxgZ](https://www.dropbox.com/scl/fi/2ji2x05j9grihazqdl9uq/0610_3-_-_.mp4?rlkey=jpvjjpzrbap6ia5i00cjs7e9a&dl=0)
 ## 第７回Q&A集
 https://irradiated-pot-667.notion.site/7-Q-A-8b1443826c514dafbdec7f055e9b621f
 ## 各種プログラムの説明　<br>
