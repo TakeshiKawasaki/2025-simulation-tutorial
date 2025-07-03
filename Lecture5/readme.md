@@ -2,7 +2,7 @@
 https://nuss.nagoya-u.ac.jp/s/w5LaEG3ARL52Lyc
   
 ## 第５回アンケートQ&A集 <bf>
-[[https://irradiated-pot-667.notion.site/5-Q-A-37c976766d334f43b73eb0ce0f9b94a6?pvs=4](https://irradiated-pot-667.notion.site/6-Q-A-37c976766d334f43b73eb0ce0f9b94a6?pvs=4)](https://www.dropbox.com/scl/fi/nxfj84hoaggu2vaoo10mg/0520_3-_-5.mp4?rlkey=8l9081longtsw7a5v7bk2jthw&dl=0)
+https://irradiated-pot-667.notion.site/6-Q-A-37c976766d334f43b73eb0ce0f9b94a6?pvs=4
 
 ## コードについての補足：
 #### BM.h:
